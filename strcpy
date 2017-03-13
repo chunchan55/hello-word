@@ -5,6 +5,6 @@ int main()
   int b = 0;
   printff ("shu ru liang ge shu\n");
   scanf ("%d%d",&a,&b);
-  return a;
+  return a+b;
   return 0;
 }
